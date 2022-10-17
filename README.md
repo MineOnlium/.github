@@ -1,4 +1,4 @@
-# mineonlium
+# MineOnlium
 This project was started with the vision of a truly fair start crypto-economy. Too many fake projects are poping up all over the place. Lets come together and build our own community without the massive whales and dev fees/pre-alloc's.
 
 
